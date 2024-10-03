@@ -1,0 +1,15 @@
+Instrucciones de Uso:
+
+1. Clona este repositorio o descarga el archivo del script.
+
+2. Abre una terminal y navega a la carpeta donde se encuentra el script.
+
+3. Ejecuta el script utilizando el siguiente comando:
+
+	python CifradoDescifradoCesar.py
+
+4. Selecciona una opción del menú:
+
+	1: Encriptar una frase.
+	2: Desencriptar una frase.
+	3: Salir del programa.
